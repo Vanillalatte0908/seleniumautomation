@@ -1,0 +1,4 @@
+stepDefinitions/LoginSteps.class
+stepDefinitions/MyStepdefs.class
+com/example/AppTest.class
+testRunner/TestRunner.class
